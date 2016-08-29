@@ -1,1 +1,1 @@
-# project_jaamboo
+Описание проекта
